@@ -16,11 +16,11 @@ Quality Assurance combines many of the activities I have always enjoyed: underst
 
 Rather than learning QA only through courses and theory, I decided to build practical experience through real projects, structured testing activities and continuous learning.
 
-## The QAce Ecosystem
+## The QAce Project
 
-To support this journey, I created QAce, a personal ecosystem dedicated to software quality.
+To support this journey, I created QAce, a personal project dedicated to software quality and continuous learning.
 
-QAce is composed of two complementary projects:
+QAce consists of two complementary initiatives:
 
 ### QA Portfolio
 
@@ -45,5 +45,7 @@ The laboratory allows me to create, execute and document testing activities whil
 ## Current Objective
 
 My objective is to continue developing practical QA experience while building a portfolio that demonstrates real testing activities, structured documentation and continuous learning.
+
+Through QAce, I aim to demonstrate not only what I have learned, but also how I approach quality, testing and continuous improvement in practice.
 
 I believe quality is not only about finding bugs. It is about understanding systems, reducing risks and helping teams deliver better software.
